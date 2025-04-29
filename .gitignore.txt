@@ -1,0 +1,51 @@
+[Libraries]
+[Libraries]
+[Libraries]
+[Libraries]
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+
+# Ignore crash logs and memory dumps
+*.stacktrace
+*.dmp
+
+# Visual Studio
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.suo
+
+# Unity
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Auto-generated
+/Generated/
+.idea/
+
+# Mac stuff
+.DS_Store
+
+# Unity meta files (DO NOT ignore!)
+!*.meta
+
+# YAML is good, binary bad
+*.unity
+*.prefab
+*.asset
+
+# User-specific settings
+/UserSettings/
+
+# Version control settings
+*.vcxproj*
